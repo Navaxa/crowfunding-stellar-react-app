@@ -6,6 +6,8 @@ Language | Framework | Blockchain Platform | Author |
 | --------| -------- | -------- |--------|
 javascript| React | Stellar|  Miguel Nava | |
 
+Watch application here [https://navaxa.github.io/crowfunding-stellar-react-app/](https://navaxa.github.io/crowfunding-stellar-react-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
